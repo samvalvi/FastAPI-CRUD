@@ -9,6 +9,7 @@ uvicorn = "*"
 sqlalchemy = "*"
 pymysql = "*"
 cryptography = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
